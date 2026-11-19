@@ -1,4 +1,4 @@
-grade = 75
+grade = 80
 if grade > 50:
     print("Passed")
 elif grade <50:
